@@ -2,18 +2,18 @@
 
 SVM(Support Vector Machine) from Scratch:-
 
-Theory:-
+## Theory:-
 
-1. Hyperplane:-
+###### Hyperplane
     Seperating plane between two categories of data. The equation of the hyperplane is:-  UW + B
     U -> Unknow vector
     W -> Perpendicular vector from origin to the hyperplane
     B -> Bias variable
     
-2. Support Vectors
+###### Support Vectors
     They are the vectors whose removal will affect the hyperplane.
     
-3. Optimization modules
+###### Optimization modules
     i) CVXOPT
     II) LibSVM
     
