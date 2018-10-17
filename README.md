@@ -29,3 +29,18 @@ It is a regression problem used to find continious value using SVM approach. Sup
     
 Support vector regression model is used to predict the stock price. There is no much difference between SVM and SVR. Simply, SVM is classification model and SVR is regreesion model. 
 
+## Microsoft Sentiment Analysis
+    Sentiment Analysis of Microsoft will be done from Twitter. It will help predict the future stock price based on user's opinions.
+    
+###### Methodology
+    1) Data Extraction
+    2) Tweets Preprocessing and Cleaning
+    3) Extarcting features from cleand tweets
+    4) Model Building:- Sentiment Analysis
+    5) Conclusion
+
+###### Naive Bayes Classifier
+
+    Naive Bayes Classifier will be used to determine weather a tweet is negative or positive.
+    
+    
