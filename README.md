@@ -41,6 +41,6 @@ Support vector regression model is used to predict the stock price. There is no 
 
 ###### Naive Bayes Classifier
 
-    Naive Bayes Classifier will be used to determine weather a tweet is negative or positive.
+    Naive Bayes Classifier will be used to determine weather a tweet is negative or positive. It uses an approach of conditional probability. 
     
     
