@@ -45,10 +45,10 @@ Support vector regression model is used to predict the stock price. There is no 
     
 ###### Datasets
 I have extracted the tweets, likes and retweets of Microsoft related pages. Some of then are:-
--> Microsoft
--> Bill Gates
--> Steve Ballmer
--> Melinda Gates
--> Satya Nadella
--> Windows
+    1) Microsoft
+    2)Bill Gates
+    3)Steve Ballmer
+    4)Melinda Gates
+    5)Satya Nadella
+    6)Windows
     
